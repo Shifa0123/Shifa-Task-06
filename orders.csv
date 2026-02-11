@@ -1,0 +1,151 @@
+OrderID,CustomerID,OrderDate,Product,Category,Quantity,Amount,PaymentMode
+O001,C101,2023-01-05,Laptop,Electronics,1,55000,Credit Card
+O002,C102,2023-01-12,Mobile,Electronics,2,32000,UPI
+O003,C103,2023-02-01,Headphones,Accessories,1,2500,Debit Card
+O004,C104,2023-02-15,Keyboard,Accessories,1,1500,Credit Card
+O005,C105,2023-03-03,Monitor,Electronics,1,12000,Net Banking
+O006,C106,,Mouse,Accessories,2,1200,UPI
+O007,C107,2023-03-20,Tablet,Electronics,1,18000,Debit Card
+O008,C108,2023-04-02,Printer,Electronics,1,9500,Credit Card
+O009,C109,2023-04-10,Chair,Furniture,1,7000,Net Banking
+O010,C110,2023-04-18,Desk,Furniture,1,11000,UPI
+O011,C111,2023-05-01,Laptop,Electronics,1,58000,Credit Card
+O012,C112,2023-05-08,Mobile,Electronics,1,16000,Debit Card
+O013,C113,2023-05-15,Smart Watch,Accessories,1,5000,UPI
+O014,C114,2023-06-01,Headphones,Accessories,2,4800,Credit Card
+O015,C115,2023-06-12,Monitor,Electronics,1,12500,Net Banking
+O016,C116,2023-06-20,Keyboard,Accessories,1,1400,UPI
+O017,C117,2023-07-05,Tablet,Electronics,1,19000,Debit Card
+O018,C118,2023-07-18,Printer,Electronics,1,10200,Credit Card
+O019,C119,2023-08-01,Chair,Furniture,2,14000,Net Banking
+O020,C120,2023-08-10,Desk,Furniture,1,11500,UPI
+O021,C121,2023-08-18,Laptop,Electronics,1,60000,Credit Card
+O022,C122,2023-09-02,Mobile,Electronics,2,34000,UPI
+O023,C123,2023-09-10,Smart Watch,Accessories,1,5200,Debit Card
+O024,C124,2023-09-25,Mouse,Accessories,3,1800,Credit Card
+O025,C125,2023-10-01,Monitor,Electronics,1,13000,Net Banking
+O026,C126,2023-10-12,Keyboard,Accessories,1,,UPI
+O027,C127,2023-10-20,Tablet,Electronics,1,19500,Debit Card
+O028,C128,2023-11-05,Printer,Electronics,1,9800,Credit Card
+O029,C129,2023-11-18,Chair,Furniture,1,7200,Net Banking
+O030,C130,2023-11-28,Desk,Furniture,1,11800,UPI
+O031,C131,2023-12-05,Laptop,Electronics,1,61000,Credit Card
+O032,C132,2023-12-12,Mobile,Electronics,1,17000,Debit Card
+O033,C133,2023-12-18,Headphones,Accessories,1,2600,UPI
+O034,C134,2024-01-03,Keyboard,Accessories,2,3000,Credit Card
+O035,C135,2024-01-10,Monitor,Electronics,1,13500,Net Banking
+O036,C136,2024-01-18,Mouse,Accessories,2,1300,UPI
+O037,C137,2024-02-01,Tablet,Electronics,1,20000,Debit Card
+O038,C138,2024-02-10,Printer,Electronics,1,10500,Credit Card
+O039,C139,2024-02-20,Chair,Furniture,1,7500,Net Banking
+O040,C140,2024-03-05,Desk,Furniture,1,12000,UPI
+O041,C141,2024-03-15,Laptop,Electronics,1,,Credit Card
+O042,C142,2024-03-25,Mobile,Electronics,2,36000,UPI
+O043,C143,2024-04-02,Smart Watch,Accessories,1,5500,Debit Card
+O044,C144,2024-04-10,Headphones,Accessories,2,5200,Credit Card
+O045,C145,2024-04-20,Monitor,Electronics,1,13800,Net Banking
+O046,C146,2024-05-01,Keyboard,Accessories,1,1450,UPI
+O047,C147,2024-05-12,Tablet,Electronics,1,21000,Debit Card
+O048,C148,2024-05-22,Printer,Electronics,1,10800,Credit Card
+O049,C149,2024-06-05,Chair,Furniture,2,15000,Net Banking
+O050,C150,2024-06-15,Desk,Furniture,1,12500,UPI
+O051,C151,2024-06-25,Laptop,Electronics,1,62000,Credit Card
+O052,C152,2024-07-02,Mobile,Electronics,1,18000,UPI
+O053,C153,2024-07-08,Headphones,Accessories,2,5200,Debit Card
+O054,C154,2024-07-15,Keyboard,Accessories,1,1600,Credit Card
+O055,C155,2024-07-22,Monitor,Electronics,1,14000,Net Banking
+O056,C156,,Mouse,Accessories,3,1800,UPI
+O057,C157,2024-08-01,Tablet,Electronics,1,22000,Debit Card
+O058,C158,2024-08-10,Printer,Electronics,1,11200,Credit Card
+O059,C159,2024-08-18,Chair,Furniture,1,7600,Net Banking
+O060,C160,2024-08-28,Desk,Furniture,1,12800,UPI
+O061,C161,2024-09-05,Laptop,Electronics,1,63000,Credit Card
+O062,C162,2024-09-12,Mobile,Electronics,2,37000,UPI
+O063,C163,2024-09-18,Smart Watch,Accessories,1,5800,Debit Card
+O064,C164,2024-09-25,Mouse,Accessories,2,1200,Credit Card
+O065,C165,2024-10-01,Monitor,Electronics,1,14500,Net Banking
+O066,C166,2024-10-08,Keyboard,Accessories,1,,UPI
+O067,C167,2024-10-15,Tablet,Electronics,1,22500,Debit Card
+O068,C168,2024-10-22,Printer,Electronics,1,11500,Credit Card
+O069,C169,2024-10-30,Chair,Furniture,2,15500,Net Banking
+O070,C170,2024-11-05,Desk,Furniture,1,13000,UPI
+O071,C171,2024-11-12,Laptop,Electronics,1,64000,Credit Card
+O072,C172,2024-11-18,Mobile,Electronics,1,18500,Debit Card
+O073,C173,2024-11-25,Headphones,Accessories,1,2700,UPI
+O074,C174,2024-12-02,Keyboard,Accessories,2,3200,Credit Card
+O075,C175,2024-12-08,Monitor,Electronics,1,15000,Net Banking
+O076,C176,,Mouse,Accessories,2,1400,UPI
+O077,C177,2024-12-18,Tablet,Electronics,1,23000,Debit Card
+O078,C178,2024-12-25,Printer,Electronics,1,11800,Credit Card
+O079,C179,2025-01-02,Chair,Furniture,1,7800,Net Banking
+O080,C180,2025-01-10,Desk,Furniture,1,13500,UPI
+O081,C181,2025-01-18,Laptop,Electronics,1,65000,Credit Card
+O082,C182,2025-01-25,Mobile,Electronics,2,39000,UPI
+O083,C183,2025-02-01,Smart Watch,Accessories,1,6000,Debit Card
+O084,C184,2025-02-08,Mouse,Accessories,3,1900,Credit Card
+O085,C185,2025-02-15,Monitor,Electronics,1,15500,Net Banking
+O086,C186,2025-02-22,Keyboard,Accessories,1,,UPI
+O087,C187,2025-03-01,Tablet,Electronics,1,23500,Debit Card
+O088,C188,2025-03-08,Printer,Electronics,1,12000,Credit Card
+O089,C189,2025-03-15,Chair,Furniture,2,16000,Net Banking
+O090,C190,2025-03-22,Desk,Furniture,1,13800,UPI
+O091,C191,2025-04-01,Laptop,Electronics,1,66000,Credit Card
+O092,C192,2025-04-08,Mobile,Electronics,1,19500,Debit Card
+O093,C193,2025-04-15,Headphones,Accessories,2,5600,UPI
+O094,C194,2025-04-22,Keyboard,Accessories,1,1700,Credit Card
+O095,C195,2025-04-29,Monitor,Electronics,1,16000,Net Banking
+O096,C196,,Mouse,Accessories,2,1500,UPI
+O097,C197,2025-05-06,Tablet,Electronics,1,24000,Debit Card
+O098,C198,2025-05-13,Printer,Electronics,1,12200,Credit Card
+O099,C199,2025-05-20,Chair,Furniture,1,8000,Net Banking
+O100,C200,2025-05-27,Desk,Furniture,1,14000,UPI
+O101,C201,2025-06-03,Laptop,Electronics,1,67000,Credit Card
+O102,C202,2025-06-10,Mobile,Electronics,2,40000,UPI
+O103,C203,2025-06-17,Smart Watch,Accessories,1,6200,Debit Card
+O104,C204,2025-06-24,Mouse,Accessories,3,2000,Credit Card
+O105,C205,2025-07-01,Monitor,Electronics,1,16500,Net Banking
+O106,C206,2025-07-08,Keyboard,Accessories,1,,UPI
+O107,C207,2025-07-15,Tablet,Electronics,1,24500,Debit Card
+O108,C208,2025-07-22,Printer,Electronics,1,12500,Credit Card
+O109,C209,2025-07-29,Chair,Furniture,2,16500,Net Banking
+O110,C210,2025-08-05,Desk,Furniture,1,14500,UPI
+O111,C211,2025-08-12,Laptop,Electronics,1,68000,Credit Card
+O112,C212,2025-08-19,Mobile,Electronics,1,20500,Debit Card
+O113,C213,2025-08-26,Headphones,Accessories,2,5800,UPI
+O114,C214,2025-09-02,Keyboard,Accessories,2,3400,Credit Card
+O115,C215,2025-09-09,Monitor,Electronics,1,17000,Net Banking
+O116,C216,,Mouse,Accessories,2,1600,UPI
+O117,C217,2025-09-16,Tablet,Electronics,1,25000,Debit Card
+O118,C218,2025-09-23,Printer,Electronics,1,12800,Credit Card
+O119,C219,2025-09-30,Chair,Furniture,1,8200,Net Banking
+O120,C220,2025-10-07,Desk,Furniture,1,14800,UPI
+O121,C221,2025-10-14,Laptop,Electronics,1,69000,Credit Card
+O122,C222,2025-10-21,Mobile,Electronics,2,42000,UPI
+O123,C223,2025-10-28,Smart Watch,Accessories,1,6500,Debit Card
+O124,C224,2025-11-04,Mouse,Accessories,3,2100,Credit Card
+O125,C225,2025-11-11,Monitor,Electronics,1,17500,Net Banking
+O126,C226,2025-11-18,Keyboard,Accessories,1,,UPI
+O127,C227,2025-11-25,Tablet,Electronics,1,25500,Debit Card
+O128,C228,2025-12-02,Printer,Electronics,1,13000,Credit Card
+O129,C229,2025-12-09,Chair,Furniture,2,17000,Net Banking
+O130,C230,2025-12-16,Desk,Furniture,1,15000,UPI
+O131,C231,2026-01-05,Laptop,Electronics,1,70000,Credit Card
+O132,C232,2026-01-12,Mobile,Electronics,1,21500,Debit Card
+O133,C233,2026-01-19,Headphones,Accessories,2,6000,UPI
+O134,C234,2026-01-26,Keyboard,Accessories,1,1800,Credit Card
+O135,C235,2026-02-02,Monitor,Electronics,1,18000,Net Banking
+O136,C236,,Mouse,Accessories,2,1700,UPI
+O137,C237,2026-02-09,Tablet,Electronics,1,26000,Debit Card
+O138,C238,2026-02-16,Printer,Electronics,1,13200,Credit Card
+O139,C239,2026-02-23,Chair,Furniture,1,8400,Net Banking
+O140,C240,2026-03-02,Desk,Furniture,1,15200,UPI
+O141,C241,2026-03-09,Laptop,Electronics,1,71000,Credit Card
+O142,C242,2026-03-16,Mobile,Electronics,2,44000,UPI
+O143,C243,2026-03-23,Smart Watch,Accessories,1,6800,Debit Card
+O144,C244,2026-03-30,Mouse,Accessories,3,2200,Credit Card
+O145,C245,2026-04-06,Monitor,Electronics,1,18500,Net Banking
+O146,C246,2026-04-13,Keyboard,Accessories,1,,UPI
+O147,C247,2026-04-20,Tablet,Electronics,1,26500,Debit Card
+O148,C248,2026-04-27,Printer,Electronics,1,13500,Credit Card
+O149,C249,2026-05-04,Chair,Furniture,2,17500,Net Banking
+O150,C250,2026-05-11,Desk,Furniture,1,15500,UPI
